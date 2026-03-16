@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Siddharth Singh",
+    "section": "",
+    "text": "I am a Statistics and Data Science student at UCLA with a minor in Data Science Engineering, interested in machine learning, data engineering, and applied analytics. My work spans research, data journalism, and industry projects in healthcare, sports, and automotive systems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Siddharth Singh",
+    "section": "",
+    "text": "I am a UCLA student pursuing a B.S. in Statistics and Data Science with a minor in Data Science Engineering, expected to graduate in June 2026. I am especially interested in machine learning, predictive modeling, data engineering, and building analytical tools that are both technically rigorous and practically useful.\nMy experience spans academic research, data journalism, and industry analytics. Across these settings, I enjoy working on problems that require careful modeling, clear communication, and thoughtful interpretation of data."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Siddharth Singh",
+    "section": "Highlights",
+    "text": "Highlights\nLucid Motors: Built Python automation and validation tools for OTA software workflows, improving efficiency and speeding validation.\nUCLA Bionics Lab: Developed deep learning and data augmentation pipelines for automated stroke assessment using multimodal sensor data.\nBruin Sports Analytics: Lead data journalism and research projects using statistical modeling and machine learning for sports analysis."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Siddharth Singh",
+    "section": "Quick Links",
+    "text": "Quick Links\nResume\nGitHub\nLinkedIn\nEmail"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Siddharth Singh",
+    "section": "",
+    "text": "I am a UCLA student pursuing a B.S. in Statistics and Data Science with a minor in Data Science Engineering, expected to graduate in June 2026. I am especially interested in machine learning, predictive modeling, data engineering, and building analytical tools that are both technically rigorous and practically useful.\nMy experience spans academic research, data journalism, and industry analytics. Across these settings, I enjoy working on problems that require careful modeling, clear communication, and thoughtful interpretation of data."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Siddharth Singh",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science\nMinor in Data Science Engineering\nExpected June 2026\nGPA: 3.85"
+  },
+  {
+    "objectID": "about.html#relevant-coursework",
+    "href": "about.html#relevant-coursework",
+    "title": "Siddharth Singh",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\nMachine Learning\nData Mining\nStatistical Models\nOptimization\nComputational Statistics\nProbability\nLinear Algebra\nData Structures & Algorithms"
+  },
+  {
+    "objectID": "about.html#honors",
+    "href": "about.html#honors",
+    "title": "Siddharth Singh",
+    "section": "Honors",
+    "text": "Honors\n\nDean’s Honor List (3x)\nPatricia Frist Scholarship Recipient\nHigh School Valedictorian\nPerfect ACT Score (36)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "At the UCLA Bionics Lab, I worked on deep learning models for automated stroke assessment using time-series sensor and computer vision data. My contributions included evaluating CNN, LSTM, and hybrid architectures, implementing subject-wise data splitting to avoid leakage, and experimenting with augmentation methods such as jittering, interpolation, and conditional GANs.\nStudent Research Program Report"
+  },
+  {
+    "objectID": "projects.html#automated-fugl-meyer-assessment-and-data-augmentation",
+    "href": "projects.html#automated-fugl-meyer-assessment-and-data-augmentation",
+    "title": "Projects",
+    "section": "",
+    "text": "At the UCLA Bionics Lab, I worked on deep learning models for automated stroke assessment using time-series sensor and computer vision data. My contributions included evaluating CNN, LSTM, and hybrid architectures, implementing subject-wise data splitting to avoid leakage, and experimenting with augmentation methods such as jittering, interpolation, and conditional GANs.\nStudent Research Program Report"
+  },
+  {
+    "objectID": "projects.html#predicting-norwegian-residential-ev-charging-loads",
+    "href": "projects.html#predicting-norwegian-residential-ev-charging-loads",
+    "title": "Projects",
+    "section": "Predicting Norwegian Residential EV Charging Loads",
+    "text": "Predicting Norwegian Residential EV Charging Loads\nBuilt a PyTorch sequential model to predict residential EV charging demand, outperforming regression baselines and improving forecasting for utility planning."
+  },
+  {
+    "objectID": "projects.html#uber-fare-prediction",
+    "href": "projects.html#uber-fare-prediction",
+    "title": "Projects",
+    "section": "Uber Fare Prediction",
+    "text": "Uber Fare Prediction\nImplemented a feature-engineered XGBoost regression model for fare prediction, achieving a low RMSE and improving pricing accuracy."
+  },
+  {
+    "objectID": "projects.html#connect-n-game",
+    "href": "projects.html#connect-n-game",
+    "title": "Projects",
+    "section": "Connect N Game",
+    "text": "Connect N Game\nBuilt a C++ game engine with multiple classes and a minimax-based SmartPlayer, focusing on efficient game-tree search and optimized response time."
+  },
+  {
+    "objectID": "projects.html#selected-writing",
+    "href": "projects.html#selected-writing",
+    "title": "Projects",
+    "section": "Selected Writing",
+    "text": "Selected Writing\n\nBruin Sports Analytics\n\nHow Xabi Alonso transformed Bayer Leverkusen\nDoes possession still matter in the Premier League?\n\n\n\nDaily Bruin\n\nInvestigation into UCLA dining and pest-control spending\nUCLA Greek life community report analysis"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Newark, CA | June 2025 – September 2025\nBuilt Python-based automation frameworks for OTA software validation, integrating REST APIs, Jama, and GitLab CI to improve workflow efficiency. Developed ECU validation tools that generated vehicle-level PASS/FAIL reports and accelerated validation speed, while also creating Tableau dashboards to summarize release performance and issues."
+  },
+  {
+    "objectID": "experience.html#lucid-motors-data-engineering-intern",
+    "href": "experience.html#lucid-motors-data-engineering-intern",
+    "title": "Experience",
+    "section": "",
+    "text": "Newark, CA | June 2025 – September 2025\nBuilt Python-based automation frameworks for OTA software validation, integrating REST APIs, Jama, and GitLab CI to improve workflow efficiency. Developed ECU validation tools that generated vehicle-level PASS/FAIL reports and accelerated validation speed, while also creating Tableau dashboards to summarize release performance and issues."
+  },
+  {
+    "objectID": "experience.html#ucla-bionics-lab-research-assistant",
+    "href": "experience.html#ucla-bionics-lab-research-assistant",
+    "title": "Experience",
+    "section": "UCLA Bionics Lab — Research Assistant",
+    "text": "UCLA Bionics Lab — Research Assistant\nLos Angeles, CA | February 2025 – Present\nDevelop deep learning and transfer learning pipelines for automated stroke assessment using 10,000+ multimodal sensor and computer vision samples. Implemented data augmentation and K-fold cross-validation systems that improved model evaluation and increased pretrain testing accuracy by 30%. I also contributed to a UCLA Student Research Program report on automated Fugl-Meyer Assessment and augmentation methods."
+  },
+  {
+    "objectID": "experience.html#bruin-sports-analytics-research-lead-data-journalism-chair",
+    "href": "experience.html#bruin-sports-analytics-research-lead-data-journalism-chair",
+    "title": "Experience",
+    "section": "Bruin Sports Analytics — Research Lead & Data Journalism Chair",
+    "text": "Bruin Sports Analytics — Research Lead & Data Journalism Chair\nLos Angeles, CA | September 2024 – Present\nLead research and mentor undergraduate writers on sports analytics projects. My work has included applying Lasso regression, PCA, XGBoost, and clustering methods to problems in basketball and soccer, along with co-authoring published sports analytics articles."
+  },
+  {
+    "objectID": "experience.html#daily-bruin-data-journalist",
+    "href": "experience.html#daily-bruin-data-journalist",
+    "title": "Experience",
+    "section": "Daily Bruin — Data Journalist",
+    "text": "Daily Bruin — Data Journalist\nLos Angeles, CA | January 2024 – Present\nCreate data-driven stories and interactive visualizations using long-term institutional datasets. Projects have examined UCLA dining and pest-control spending, Greek life performance metrics, and faculty employment trends using large administrative datasets and interview-based reporting."
+  },
+  {
+    "objectID": "experience.html#premise-health-data-analytics-intern",
+    "href": "experience.html#premise-health-data-analytics-intern",
+    "title": "Experience",
+    "section": "Premise Health — Data Analytics Intern",
+    "text": "Premise Health — Data Analytics Intern\nBrentwood, TN | June 2023 – September 2023\nAnalyzed pharmacy claims and utilization data to identify spending patterns, estimate savings from onsite pharmacy access, and surface operational insights relevant to ROI and patient support."
+  }
+]
