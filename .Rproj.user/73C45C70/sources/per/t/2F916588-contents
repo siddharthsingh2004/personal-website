@@ -1,0 +1,6 @@
+/* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&display=swap');
+
+body, p, h1, h2, h3, h4, h5, h6, a, li, span, div {
+  font-family: 'Cormorant Garamond', serif;
+}

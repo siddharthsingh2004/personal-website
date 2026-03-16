@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Siddharth Singh"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+    right:
+      - text: GitHub
+        href: https://github.com/siddharthsingh2004
+        target: _blank
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/siddharthsinghucla/
+        target: _blank
+      - text: Email
+        href: mailto:siddharth2004@g.ucla.edu
+        target: _blank
+      - text: Resume
+        href: SiddharthSingh.pdf
+        target: _blank
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

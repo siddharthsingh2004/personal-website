@@ -1,0 +1,32 @@
+{
+    "id": "F0D45464",
+    "path": "~/siddharth_website/experience.qmd",
+    "project_path": "experience.qmd",
+    "type": "quarto_markdown",
+    "hash": "1037388109",
+    "contents": "",
+    "dirty": false,
+    "created": 1773081056672.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "24:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773081232,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773081232707,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+---
+title: "Projects"
+---
+
+## Automated Fugl-Meyer Assessment and Data Augmentation
+
+At the UCLA Bionics Lab, I worked on deep learning models for automated stroke assessment using time-series sensor and computer vision data. My contributions included evaluating CNN, LSTM, and hybrid architectures, implementing subject-wise data splitting to avoid leakage, and experimenting with augmentation methods such as jittering, interpolation, and conditional GANs.\
+[Student Research Program Report](finalreport2.pdf){target="_blank"}
+
+## Predicting Norwegian Residential EV Charging Loads
+
+Built a PyTorch sequential model to predict residential EV charging demand, outperforming regression baselines and improving forecasting for utility planning.
+
+## Uber Fare Prediction
+
+Implemented a feature-engineered XGBoost regression model for fare prediction, achieving a low RMSE and improving pricing accuracy.
+
+## Connect N Game
+
+Built a C++ game engine with multiple classes and a minimax-based SmartPlayer, focusing on efficient game-tree search and optimized response time.
+
+## Selected Writing
+
+### Bruin Sports Analytics
+
+-   [How Xabi Alonso transformed Bayer Leverkusen](https://www.bruinsportsanalytics.com/post/leverkusen-success){target="_blank"}
+-   [Does possession still matter in the Premier League?](https://www.bruinsportsanalytics.com/post/possession-english-premier){target="_blank"}
+
+### Daily Bruin
+
+-   [Investigation into UCLA dining and pest-control spending](https://dailybruin.com/2026/01/16/investigation-reveals-ucla-dining-cut-pest-control-budget-ahead-of-rat-infestation){target="_blank"}
+-   [UCLA Greek life community report analysis](https://dailybruin.com/2025/10/16/ucla-releases-community-report-assessing-greek-life-performance-involvement){target="_blank"}

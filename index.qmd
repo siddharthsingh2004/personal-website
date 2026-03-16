@@ -1,0 +1,23 @@
+---
+title: "Siddharth Singh"
+about:
+  template: jolla
+  image: best.JPG
+---
+
+I am a Statistics and Data Science student at UCLA with a minor in Data Science Engineering, interested in machine learning, data engineering, and applied analytics. My work spans research, data journalism, and industry projects in healthcare, sports, and automotive systems.
+
+## Highlights
+
+**Lucid Motors:** Built Python automation and validation tools for OTA software workflows, improving efficiency and speeding validation.
+
+**UCLA Bionics Lab:** Developed deep learning and data augmentation pipelines for automated stroke assessment using multimodal sensor data.
+
+**Bruin Sports Analytics:** Lead data journalism and research projects using statistical modeling and machine learning for sports analysis.
+
+## Quick Links
+
+[Resume](SiddharthSingh.pdf){target="_blank"}\
+[GitHub](https://github.com/siddharthsingh2004){target="_blank"}\
+[LinkedIn](https://www.linkedin.com/in/siddharthsinghucla/){target="_blank"}\
+[Email](mailto:siddharth2004@g.ucla.edu){target="_blank"}
