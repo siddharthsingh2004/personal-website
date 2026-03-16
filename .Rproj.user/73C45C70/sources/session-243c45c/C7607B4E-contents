@@ -20,7 +20,7 @@ website:
         href: https://www.linkedin.com/in/siddharthsinghucla/
         target: _blank
       - text: Email
-        href: mailto:siddharth2004@g.ucla.edu
+        href: mailto:siddharth2004@g.ucla.edu?subject=Hello%20from%20your%20website        
         target: _blank
       - text: Resume
         href: SiddharthSingh.pdf

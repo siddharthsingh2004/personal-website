@@ -20,4 +20,4 @@ I am a Statistics and Data Science student at UCLA with a minor in Data Science 
 [Resume](SiddharthSingh.pdf){target="_blank"}\
 [GitHub](https://github.com/siddharthsingh2004){target="_blank"}\
 [LinkedIn](https://www.linkedin.com/in/siddharthsinghucla/){target="_blank"}\
-[Email](mailto:siddharth2004@g.ucla.edu){target="_blank"}
+[siddharth2004@g.ucla.edu](mailto:siddharth2004@g.ucla.edu){target="_blank"}
